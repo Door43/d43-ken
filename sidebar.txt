@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ken:home|Door43 (ken)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ken|d43-ken repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ken/archive/master.zip|d43-ken.zip]]
+
+**Recent Changes**
+{{changes>ns = ken}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ken|Ethnologue data]]
+
